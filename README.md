@@ -1,5 +1,7 @@
 # TenantDashboardWebApp
-A custom Web App built with the help of the Chart.js library that can be configured to pull data from various sources (Entra, Intune, Defender, ServiceNow etc.)
-<br><br><br><br>
+A custom Web App library that can be configured to pull data from different sources (Entra, Intune, Defender, ServiceNow etc.) and present it in various forms.
+<br>
+### Dashboards
 ![DeviceStats](https://github.com/AdrianbCojocaru/TenantDashboardWebApp/blob/main/screenshots/DeviceStats.png)
+### Device geolocation
 ![IPDeviceMap](https://github.com/AdrianbCojocaru/TenantDashboardWebApp/blob/main/screenshots/DeviceMap.png)
